@@ -1,2 +1,7 @@
 hello from new world
+<<<<<<< HEAD
 checking merge conflicts
+=======
+adding new lines to check 
+push from dev branch
+>>>>>>> dev
